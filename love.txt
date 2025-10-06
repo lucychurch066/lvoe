@@ -7,6 +7,5 @@ https://api.whatsapp.com/send/?phone=447877234455&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447362717046&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447401193320&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447401193320&text&app_absent=0
-https://api.whatsapp.com/send/?phone=447474980532&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447463875528&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447460976181&text&app_absent=0
