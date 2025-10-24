@@ -2,3 +2,9 @@ https://api.whatsapp.com/send/?phone=13658015507&text&app_absent=0
 https://api.whatsapp.com/send/?phone=13654008740&text&app_absent=0
 https://api.whatsapp.com/send/?phone=17092092838&text&app_absent=0
 https://api.whatsapp.com/send/?phone=17786556905&text&app_absent=0
+https://api.whatsapp.com/send/?phone=33684506256&text&app_absent=0
+https://api.whatsapp.com/send/?phone=33760830785&text&app_absent=0
+https://api.whatsapp.com/send/?phone=12048174127&text&app_absent=0
+https://api.whatsapp.com/send/?phone=12892043782&text&app_absent=0
+https://api.whatsapp.com/send/?phone=12897683592&text&app_absent=0
+https://api.whatsapp.com/send/?phone=12893152556&text&app_absent=0
