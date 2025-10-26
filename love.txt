@@ -1,4 +1,4 @@
-https://api.whatsapp.com/send/?phone=14072302780&text&app_absent=0
+
 https://api.whatsapp.com/send/?phone=19183290310&text&app_absent=0
 https://api.whatsapp.com/send/?phone=12722369420&text&app_absent=0
 
