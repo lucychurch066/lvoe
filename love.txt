@@ -1,10 +1,2 @@
-https://api.whatsapp.com/send/?phone=4915124606366&text&app_absent=0
-https://api.whatsapp.com/send/?phone=4915175105217&text&app_absent=0
-https://api.whatsapp.com/send/?phone=12074341152&text&app_absent=0
-https://api.whatsapp.com/send/?phone=19895358199&text&app_absent=0
-https://api.whatsapp.com/send/?phone=4915168570634&text&app_absent=0
-https://api.whatsapp.com/send/?phone=4915175526896&text&app_absent=0
-https://api.whatsapp.com/send/?phone=17479556441&text&app_absent=0
-https://api.whatsapp.com/send/?phone=19178016206&text&app_absent=0
-https://api.whatsapp.com/send/?phone=4915124870996&text&app_absent=0
-https://api.whatsapp.com/send/?phone=4915124882436&text&app_absent=0
+https://t.me/lucy5099
+https://t.me/lucy5090
