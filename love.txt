@@ -7,7 +7,7 @@ ttps://api.whatsapp.com/send/?phone=15873183147&text&app_absent=0
 https://api.whatsapp.com/send/?phone=16468286287&text&app_absent=0
 https://api.whatsapp.com/send/?phone=12074341152&text&app_absent=0
 https://api.whatsapp.com/send/?phone=19895358199&text&app_absent=0
-https://api.whatsapp.com/send/?phone=4915124389155&text&app_absent=0
+
 
 https://api.whatsapp.com/send/?phone=4915145933851&text&app_absent=0
 
