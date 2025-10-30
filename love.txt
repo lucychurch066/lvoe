@@ -8,11 +8,11 @@ https://api.whatsapp.com/send/?phone=16468286287&text&app_absent=0
 https://api.whatsapp.com/send/?phone=12074341152&text&app_absent=0
 https://api.whatsapp.com/send/?phone=19895358199&text&app_absent=0
 https://api.whatsapp.com/send/?phone=4915124389155&text&app_absent=0
-https://api.whatsapp.com/send/?phone=4915124422812&text&app_absent=0
+
 https://api.whatsapp.com/send/?phone=4915145933851&text&app_absent=0
-https://api.whatsapp.com/send/?phone=4915163103566&text&app_absent=0
+
 https://api.whatsapp.com/send/?phone=491629810657&text&app_absent=0
-https://api.whatsapp.com/send/?phone=4915124981439&text&app_absent=0
+
 https://api.whatsapp.com/send/?phone=19295288537&text&app_absent=0
 https://api.whatsapp.com/send/?phone=19177374759&text&app_absent=0
 https://api.whatsapp.com/send/?phone=18768832839&text&app_absent=0
