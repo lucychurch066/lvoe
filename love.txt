@@ -2,3 +2,5 @@ https://api.whatsapp.com/send/?phone=5511977439257&text&app_absent=0
 https://api.whatsapp.com/send/?phone=5511980496431&text&app_absent=0
 https://api.whatsapp.com/send/?phone=213780644491&text&app_absent=0
 https://api.whatsapp.com/send/?phone=213796550616&text&app_absent=0
+https://api.whatsapp.com/send/?phone=213662466174&text&app_absent=0
+https://api.whatsapp.com/send/?phone=213675636512&text&app_absent=0
