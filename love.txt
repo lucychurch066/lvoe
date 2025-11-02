@@ -1,4 +1,3 @@
-https://api.whatsapp.com/send/?phone=5511977439257&text&app_absent=0
 ttps://api.whatsapp.com/send/?phone=5512976102858&text&app_absent=0
 https://api.whatsapp.com/send/?phone=213662466174&text&app_absent=0
 https://api.whatsapp.com/send/?phone=213774343835&text&app_absent=0
