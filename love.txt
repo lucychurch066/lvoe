@@ -8,4 +8,3 @@ https://api.whatsapp.com/send/?phone=8801869858553&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801873824267&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801920572077&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801920839668&text&app_absent=0
-https://api.whatsapp.com/send/?phone=8801933985870&text&app_absent=0
